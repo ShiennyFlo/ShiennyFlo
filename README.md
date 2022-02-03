@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShiennyFlo
-- 👀 I’m Udayana University Computer Science student
+- 👀 I’m a Computer Science student at Udayana University
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me:
   - LINE: shienny__
