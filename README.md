@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShiennyFlo
 - 👀 I’m a Computer Science student at Udayana University
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently learning full stack web developer
 - 📫 How to reach me:
   - LINE: shienny__
   - IG: https://www.instagram.com/shienny_flo
