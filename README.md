@@ -4,7 +4,7 @@
 - 📫 How to reach me:
   - LINE: shienny__
   - IG: https://www.instagram.com/shienny_flo/
-  - LinkedIn: fttps://www.linkedin.com/in/shiennyta-florensia
+  - LinkedIn: https://www.linkedin.com/in/shiennyta-florensia
 
 <!---
 ShiennyFlo/ShiennyFlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
