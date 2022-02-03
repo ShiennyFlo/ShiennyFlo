@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me:
   - LINE: shienny__
-  - IG: https://www.instagram.com/shienny_flo/
+  - IG: https://www.instagram.com/shienny_flo
   - LinkedIn: https://www.linkedin.com/in/shiennyta-florensia
 
 <!---
